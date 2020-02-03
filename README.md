@@ -1,4 +1,9 @@
 
+_Organizer's note:_ this project was the **overall winner** in iQuHACK 2020.
+
+The project presentation can be found [here](https://github.com/iQuHACK/QUasiCoders/blob/master/Circuit%20Decomposition%20for%20Hardware%20Efficient%20VQE.pptx).
+
+---
 
 # Circuit Decomposition for Hardware-Efficient VQE
 
